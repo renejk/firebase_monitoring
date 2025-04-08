@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47233550673",
+    "project_id": "fir-monitoring-c3daf",
+    "storage_bucket": "fir-monitoring-c3daf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47233550673:android:e08574571b6114bf3a6b70",
+        "android_client_info": {
+          "package_name": "com.example.firebase_monitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuFQylhmETIpnPzWb-w7PQMU6basPYZ2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
